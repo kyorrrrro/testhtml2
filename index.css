@@ -121,5 +121,6 @@ body {
   padding:5px;
   margin:10px;
   }
-  
-  
+  p.sample img {
+    width: 700px;  /* 横幅を700pxに */
+}
